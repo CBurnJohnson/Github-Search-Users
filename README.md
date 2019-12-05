@@ -1,4 +1,4 @@
-# Github Search Users Application
+# Github Users Search Application
 
 #### React application that searches Github users and displays the user's Github information.
 
